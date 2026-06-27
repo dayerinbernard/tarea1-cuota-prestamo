@@ -20,8 +20,7 @@ class Program {
 
         tasaMensual = (tasa / 100) / 12;
 
-        cuota = (monto * tasaMensual) /
-                (1 - Math.Pow(1 + tasaMensual, -meses));
+        cuota = (monto * tasaMensual) / (1 - Math.Pow(1 + tasaMensual, -meses));
 
         Console.WriteLine("Monto del préstamo: " + monto);
         Console.WriteLine("Tasa de interés: " + tasa + "%");
