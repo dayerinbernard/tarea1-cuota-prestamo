@@ -1,8 +1,9 @@
-Nombre:
-Matricula:
+Nombre: Dayerin Bernard
+Matrícula: 25-SISN-2-015
 
-Nombre:
-Matricula:
+Nombre: David Olivo
+Matrícula: 25-SISN-2-021
+
 
 Nombre:
 Matricula:
