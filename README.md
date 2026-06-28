@@ -4,12 +4,11 @@ Matrícula: 25-SISN-2-015
 Nombre: David Olivo
 Matrícula: 25-SISN-2-021
 
+Nombre: Arlethny Alcántara Guillén 
+Matrícula: 25-SISN-2-052
 
-Nombre:
-Matricula:
-
-Nombre:
-Matricula:
+Nombre: Rony Emmanuel Celestino Ortiz
+Matrícula: 25-SSON-2-003
 
 Asignatura: Algoritmos computacionales.
 
